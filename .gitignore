@@ -1,0 +1,27 @@
+*.class
+
+data/glove.6B.50d.txt
+data/vectorized.txt
+data/vectorized.bin
+
+data_test*
+
+__pycache__/**
+
+conlleval
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+**bin
+**.settings
+**.idea
+**.project
+**.classpath
+**target
+**lib
